@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "next": "^15.1.6",
+    "react-next": "^0.0.1"
+  }
+}
